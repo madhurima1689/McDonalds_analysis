@@ -1,6 +1,6 @@
-#McDonalds Hackathon 
+#Hackathon 
 
-setwd("C:/Users/mchoudhu/Documents/PGP-BABI")
+setwd("C:/Users/mchoudhu/Documents/********")
 library(readxl)
 mcd=read.csv("Mcdonald+.csv",header=TRUE)
 summary(mcd)
